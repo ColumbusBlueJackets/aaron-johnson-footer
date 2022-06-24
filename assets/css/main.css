@@ -1885,6 +1885,7 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		position: relative;
+		color: #003366;
 	}
 
 		.icon:before {
